@@ -1,0 +1,1 @@
+High-level modules shouldn't depend on low-level modules. They should both depend on abstraction.

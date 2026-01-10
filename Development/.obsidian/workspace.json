@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "004cc0637b5dbffa",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8448ce6dcebcb31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e3fe74db87c8196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/Physics/Rigidbody.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a270652c8aa65ca3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f41c8f44ecb589b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d6ca826498baab4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6413b8dd0deacacb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bac2c5ba65085e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "acc0333582062c15",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ccf75624e8d9cf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb823fc223c026b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unity/Physics/Rigidbody.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76a64aed7f13fee9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unity/Physics/Rigidbody.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67af1c48bfacfc72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b7365c06cbaaf31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unity/Physics/Rigidbody.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "3e3fe74db87c8196",
+  "lastOpenFiles": [
+    "Unity/Physics/RayCast.md",
+    "Unity/Physics/Collider.md",
+    "Affairs.md",
+    "Git/Commands.md",
+    "CS/Tests.md",
+    "CS/Casting.md",
+    "GameDesign/Screenwriting skills.md",
+    "Games which I should check.md",
+    "CS/Libreries/EpPlus.md",
+    "_Resources/Pasted image 20240826175624.png",
+    "_Resources/Pasted image 20240826174609.png",
+    "_Resources/Pasted image 20240826174528.png",
+    "_Resources/Pasted image 20240824140247.png",
+    "_Resources/Pasted image 20240824135745.png",
+    "_Resources/Pasted image 20240815130917.png",
+    "_Resources/Pasted image 20240815131741.png",
+    "_Resources/Pasted image 20240824114157.png",
+    "_Resources",
+    "Unity/Useful methods.md",
+    "Ideas/Змейка плюс Geometry Dash.md",
+    "Ideas/Змейка.md",
+    "Ideas/Вообще просто жесть какая крутая игра.md",
+    "GameDesign",
+    "CS/Libreries",
+    "CS/Text/Untitled.md",
+    "CS/Text",
+    "Unity/Physics/Rigidbody.md",
+    "Ideas/The first game.md",
+    "Unity/Physics",
+    "Unity/Physics.md",
+    "Unity/Sprite renderer.md",
+    "Unity/Sprite editor.md",
+    "Ideas/Выживи в пустыне.md",
+    "Ideas/Игра чуть посложнее.md",
+    "Ideas",
+    "Unity",
+    "Git",
+    "CS",
+    "Welcome.md"
+  ]
+}

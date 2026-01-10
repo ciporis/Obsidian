@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "ce999bcd3e4e29cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f510c122cbaa1dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c83e1d746a42c94b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0e365475b2b479e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "52236b3f9f35d507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Зарядка.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a070802b1c10cebf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f13817343f06b3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Affairs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b419b603d7cc58d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Affairs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33635fbdb7a6c8a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Хотелки/Movies and Anime.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2170e16cbfc6ede0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d8623441ae1bd37c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "dc7093375c69a367",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7550127f5d43a11f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ccce315274c7158f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "35e827f4c9793f40",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "80b6fe00a40f85df",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Хотелки/Movies and Anime.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f768bb7058c6e6a3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Хотелки/Movies and Anime.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7ec9c7e95aad830c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Хотелки/Movies and Anime.md"
+          }
+        }
+      },
+      {
+        "id": "3fa130a818daca7c",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "33635fbdb7a6c8a5",
+  "lastOpenFiles": [
+    "Affairs.md",
+    "Анастасия моя лучшая сосиска, Sosisa, не теряй решимость.md",
+    "Daily check lists.md",
+    "People/Аня любит.md",
+    "Список вещей для института.md",
+    "Хотелки/Actions.md",
+    "Хотелки/Movies.md",
+    "Хотелки/Games.md",
+    "Хотелки/Cart.md",
+    "Зарядка.md",
+    "Brief thoughts.md",
+    "Отзыв на подарек.md",
+    "Аня любит.md",
+    "Daily notes/15-09-2024.md",
+    "Сон.md",
+    "Daily notes/02-06-2024.md",
+    "Хотелки.md",
+    "Videos.md",
+    "Игры чтобы играть и было круто.md",
+    "EGE/IT/Задания 19 - 21 (решение программированием).md",
+    "Untitled",
+    "EGE/Time Sheet.md",
+    "Daily notes/23-04-2024.md",
+    "Daily notes/22-04-2024.md",
+    "Daily notes/21-04-2024.md",
+    "Daily notes/15-04-2024.md",
+    "Daily notes/12-04-2024.md"
+  ]
+}
