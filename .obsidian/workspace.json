@@ -4,51 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "227bc67119c6c5aa",
+        "id": "0e5f2304ba5c2498",
         "type": "tabs",
         "children": [
           {
-            "id": "65c7f0ea4198f924",
+            "id": "5d65f0842a66c8ed",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ТЗ AR Fitness.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ТЗ AR Fitness"
-            }
-          },
-          {
-            "id": "e6e83352775ba07d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Всего помаленьку.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Всего помаленьку"
-            }
-          },
-          {
-            "id": "2756a51b407fa588",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,6 +187,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "remotely-save:Remotely Save": false,
       "daily-notes:Open today's daily note": false,
       "bases:Create new base": false,
       "obsidian-kanban:Create new board": false,
@@ -227,61 +197,60 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "obsidian-git:Open Git source control": false
+      "random-note:Open random note": false
     }
   },
-  "active": "2756a51b407fa588",
+  "active": "5d65f0842a66c8ed",
   "lastOpenFiles": [
-    "Всего помаленьку.md",
-    "Untitled.md",
-    "ТЗ AR Fitness.md",
-    "Доделать.md",
-    "4 этап.md",
-    "Идеи.md",
-    "Бадики.md",
-    "5 методов обучения.md",
-    "People/Scientists/Scientists.md",
-    "Видео для просмотра.md",
-    "People/Дни рождения.md",
-    "People/Анастасия, Sosisa, не теряй решимость.md",
+    "Видосы/Основы командной разработки Unity приложений.md",
     "Unity developer interview materials/Questions.md",
-    "Reviews/Books.md",
-    "Wanna/Media.md",
-    "Панель тренера.md",
-    "Красота в приложении.md",
-    "Education/Курс Операционные Системы и Оболочки/Подведение итогов по по курсу операционные системы и оболочки.md",
-    "Education/Курс Операционные Системы и Оболочки",
+    "Идеи.md",
+    "4 этап.md",
+    "Доделать.md",
+    "Всего помаленьку.md",
+    "Schedules.md",
+    "Созвон быстро.md",
+    "16-01-2026.md",
+    "Current work.md",
     "Spooky Scarry Sceletons.md",
-    "ARFitness.md",
+    "ТЗ AR Fitness.md",
     "Парадокс дней рождения.md",
-    "Useful materials.md",
-    "Запросы в REST API.md",
-    "OSS 09.09.25.md",
-    "Affairs/Programming.md",
-    "Affairs/Code&Unity.md",
+    "5 методов обучения.md",
+    "Видосы/Untitled",
+    "Видосы",
+    "Excalidraw/Drawing 2026-01-16 22.04.44.excalidraw.md",
+    "Excalidraw",
+    "Education/Languages/Русский/Старые словечки.md",
+    "Материалы/Инвестиции.md",
+    "Absorbing content/Movies/Wanna watch.md",
+    "Материалы/English.md",
+    "Absorbing content/Reading/Wanna read.md",
+    "Absorbing content/Reading/Finished.md",
+    "Мыслёу/Советы по здоровью зубов.md",
+    "Absorbing content/Movies/Rating.md",
+    "Absorbing content/Movies",
+    "Absorbing content",
+    "Мыслёу/My thoughts.md",
+    "Материалы/Французский.md",
+    "Education/Курс Операционные Системы и Оболочки/Подведение итогов по по курсу операционные системы и оболочки.md",
+    "Материалы/Untitled",
+    "_/Pasted image 20260116195707.png",
+    "_/Pasted image 20260116195705.png",
+    "_/Pasted image 20260116195618.png",
+    "Материалы/Unity",
+    "Материалы",
+    "Untitled.base",
+    "Untitled.canvas",
+    "_/Pasted image 20260113145749.png",
+    "_/Pasted image 20260113145742.png",
+    "_/Pasted image 20260113133239.png",
+    "Education/Languages/Français",
+    "Current work.png",
     "_/Pasted image 20251209115122.png",
     "_/Pasted image 20251209113705.png",
     "_/Pasted image 20251209112809.png",
-    "_/Pasted image 20251209112304.png",
-    "_/Pasted image 20251209112240.png",
-    "_/Pasted image 20251208135656.png",
-    "_/Pasted image 20251207205147.png",
-    "_/Pasted image 20251207205140.png",
-    "_/Pasted image 20251207185508.png",
-    "_/Pasted image 20251122221559.png",
-    "ЯМП лекция 2 Типы данных в python.html",
-    "OSS — копия.pdf",
-    "Education/ЯМП",
-    "Education/САКОД",
-    "Development/DataBases",
-    "Development/Projects/RogueLike",
-    "Development/Projects",
-    "MyThoughts",
-    "Reviews/Movies&TVShows",
     "University/Lectures/IT/ИКТ/Схема формирования информации.canvas",
     "Investments/Untitled.canvas",
-    "Untitled.canvas",
     "Daily notes/Untitled.canvas",
     "EGE/Победа за 2 хода.canvas"
   ]
